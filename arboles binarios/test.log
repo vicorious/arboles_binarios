@@ -1,0 +1,156 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:5Arbol
+DEBUG:root:Entro. Linea: 70,84,85
+
+DEBUG:root:Nivel: 3
+DEBUG:root:nodo der 70=>84
+DEBUG:root:nodo der 84=>85
+
+DEBUG:root:Entro. Linea: 70,84,78,80
+
+DEBUG:root:nodo izquier 84<=78
+DEBUG:root:nodo der 78=>80
+
+DEBUG:root:Entro. Linea: 70,84,78,76
+
+DEBUG:root:nodo izquier 78<=76
+
+DEBUG:root:Entro. Linea: 70,49,54,51
+
+DEBUG:root:nodo izquier 70<=49
+DEBUG:root:nodo der 49=>54
+DEBUG:root:nodo der 54=>51
+
+DEBUG:root:Entro. Linea: 70,49,37,40
+
+DEBUG:root:nodo izquier 49<=37
+DEBUG:root:nodo der 37=>40
+
+DEBUG:root:Entro. Linea: 70,49,37,22
+
+DEBUG:root:nodo izquier 37<=22
+
+DEBUG:root:Nodo_b: 70
+DEBUG:root:Nodo_b: 84
+DEBUG:root:Nodo_b: 85
+
+DEBUG:root:Nodo_b: 78
+DEBUG:root:Nodo_b: 80
+
+DEBUG:root:Nodo_b: 76
+
+DEBUG:root:Nodo_b: 49
+DEBUG:root:Nodo_b: 54
+DEBUG:root:Nodo_b: 51
+
+DEBUG:root:Nodo_b: 37
+DEBUG:root:Nodo_b: 40
+
+DEBUG:root:Nodo_b: 22
+
+DEBUG:root:Nombre archivo final de salida: ./graphs/5Arbol
+INFO:werkzeug:127.0.0.1 - - [28/Jan/2019 11:19:35] "GET /ancestro?arbol=5Arbol HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:5Arbol
+DEBUG:root:Entro. Linea: 70,84,85
+
+DEBUG:root:Nivel: 3
+DEBUG:root:nodo der 70=>84
+DEBUG:root:nodo der 84=>85
+
+DEBUG:root:Entro. Linea: 70,84,78,80
+
+DEBUG:root:nodo izquier 84<=78
+DEBUG:root:nodo der 78=>80
+
+DEBUG:root:Entro. Linea: 70,84,78,76
+
+DEBUG:root:nodo izquier 78<=76
+
+DEBUG:root:Entro. Linea: 70,49,54,51
+
+DEBUG:root:nodo izquier 70<=49
+DEBUG:root:nodo der 49=>54
+DEBUG:root:nodo der 54=>51
+
+DEBUG:root:Entro. Linea: 70,49,37,40
+
+DEBUG:root:nodo izquier 49<=37
+DEBUG:root:nodo der 37=>40
+
+DEBUG:root:Entro. Linea: 70,49,37,22
+
+DEBUG:root:nodo izquier 37<=22
+
+DEBUG:root:Nodo_b: 70
+DEBUG:root:Nodo_b: 84
+DEBUG:root:Nodo_b: 85
+
+DEBUG:root:Nodo_b: 78
+DEBUG:root:Nodo_b: 80
+
+DEBUG:root:Nodo_b: 76
+
+DEBUG:root:Nodo_b: 49
+DEBUG:root:Nodo_b: 54
+DEBUG:root:Nodo_b: 51
+
+DEBUG:root:Nodo_b: 37
+DEBUG:root:Nodo_b: 40
+
+DEBUG:root:Nodo_b: 22
+
+DEBUG:root:Nombre archivo final de salida: ./graphs/6Arbol
+INFO:werkzeug:127.0.0.1 - - [28/Jan/2019 11:23:10] "GET /ancestro?arbol=5Arbol HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:5Arbol
+DEBUG:root:Entro. Linea: 70,84,85
+
+DEBUG:root:Nivel: 3
+DEBUG:root:nodo der 70=>84
+DEBUG:root:nodo der 84=>85
+
+DEBUG:root:Entro. Linea: 70,84,78,80
+
+DEBUG:root:nodo izquier 84<=78
+DEBUG:root:nodo der 78=>80
+
+DEBUG:root:Entro. Linea: 70,84,78,76
+
+DEBUG:root:nodo izquier 78<=76
+
+DEBUG:root:Entro. Linea: 70,49,54,51
+
+DEBUG:root:nodo izquier 70<=49
+DEBUG:root:nodo der 49=>54
+DEBUG:root:nodo der 54=>51
+
+DEBUG:root:Entro. Linea: 70,49,37,40
+
+DEBUG:root:nodo izquier 49<=37
+DEBUG:root:nodo der 37=>40
+
+DEBUG:root:Entro. Linea: 70,49,37,22
+
+DEBUG:root:nodo izquier 37<=22
+
+DEBUG:root:Nodo_b: 70
+DEBUG:root:Nodo_b: 84
+DEBUG:root:Nodo_b: 85
+
+DEBUG:root:Nodo_b: 78
+DEBUG:root:Nodo_b: 80
+
+DEBUG:root:Nodo_b: 76
+
+DEBUG:root:Nodo_b: 49
+DEBUG:root:Nodo_b: 54
+DEBUG:root:Nodo_b: 51
+
+DEBUG:root:Nodo_b: 37
+DEBUG:root:Nodo_b: 40
+
+DEBUG:root:Nodo_b: 22
+
+DEBUG:root:Nombre archivo final de salida: ./graphs/7Arbol
+INFO:werkzeug:127.0.0.1 - - [28/Jan/2019 11:26:34] "GET /ancestro?arbol=5Arbol HTTP/1.1" 200 -
